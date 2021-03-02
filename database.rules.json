@@ -1,0 +1,14 @@
+{
+  "rules": {
+    ".read": true,
+    ".write": true,
+    "cards": {
+      ".indexOn": [
+        "title",
+        "soldprice",
+        "solddate",
+        "sitesold"
+      ]
+    }
+  }
+}
